@@ -1,2 +1,2 @@
 ## This is a file to practice rebase
-- My name is Osahon and i want to learn rebase properly
+- This is a feature branch i want to use
